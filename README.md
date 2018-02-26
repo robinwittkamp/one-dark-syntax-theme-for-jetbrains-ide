@@ -31,6 +31,6 @@ IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, RubyMine, AppCode, CLion, GoLand, Da
   
   <img width="993" alt="screen shot 2018-02-26 at 02 53 07" src="https://user-images.githubusercontent.com/13024361/36649924-c42ce16a-1aa0-11e8-98fb-14130e83b349.png">
   
-  * Select and open your downloaded .icls-file
+  * Select and open your downloaded scheme file
   * Click 'Apply'
 5. Have fun!
