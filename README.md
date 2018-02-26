@@ -1,4 +1,4 @@
-# Atom 'One Dark' Syntax Theme for JetBrains IDEs
+# One Dark Syntax Theme for JetBrains IDEs
 Atom's One Dark syntax theme for JetBrains IDE's (based on Material Theme UI Plugin).
 
 ## Compatibility
