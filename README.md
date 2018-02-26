@@ -10,8 +10,7 @@ IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, RubyMine, AppCode, CLion, GoLand, Da
 
 ## Installation
 1. Install the 'Material Theme UI' Plugin
-  * Start your IDE of choice
-  * Preferences > Plugins
+  * In your IDE go to Preferences > Plugins
   * Click 'Browse repositories...' Button
   
   <img width="993" alt="screen shot 2018-02-26 at 02 47 02" src="https://user-images.githubusercontent.com/13024361/36649877-765595fe-1aa0-11e8-9ed9-15430402a418.png">
