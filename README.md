@@ -1,6 +1,5 @@
 # Atom 'One Dark' Syntax Theme for JetBrains IDEs
-The 'One Dark' theme inspired by Atom based on 'Material Theme UI' Plugin for 
-Inspired by the Atom 'One Dark' Syntax Theme
+Atom's One Dark syntax theme for JetBrains IDE's (based on Material Theme UI Plugin).
 
 ## Compatibility
 All IDEs by JetBrains that can install the 'Material Theme UI' Plugin:
