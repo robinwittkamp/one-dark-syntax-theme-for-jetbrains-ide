@@ -12,14 +12,10 @@ IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, RubyMine, AppCode, CLion, GoLand, Da
 
 ## Installation
 1. Install the 'Material Theme UI' Plugin
-  * In your IDE go to Preferences > Plugins
-  * Click 'Browse repositories...' Button
-  
-  <img width="993" alt="screen shot 2018-02-26 at 02 47 02" src="https://user-images.githubusercontent.com/13024361/36649877-765595fe-1aa0-11e8-9ed9-15430402a418.png">
-  
+  * In your IDE go to Preferences > Plugins  
   * Search for 'Material Theme UI' (without ')
   
-  <img width="695" alt="screen shot 2018-02-26 at 02 48 10" src="https://user-images.githubusercontent.com/13024361/36649898-a5a62468-1aa0-11e8-8720-f2a6fbf0e4f6.png">
+  <img width="816" alt="Screen Shot 2019-03-31 at 13 27 06" src="https://user-images.githubusercontent.com/13024361/55288524-3719be80-53b9-11e9-91af-78b8ca773176.png">
   
   * Click 'Install' Button
   * Restart your IDE
@@ -30,7 +26,7 @@ IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, RubyMine, AppCode, CLion, GoLand, Da
   * Click 'Import Scheme'
   * Click 'IntelliJ IDEA color scheme (.icls or settings (.jar)'
   
-  <img width="993" alt="screen shot 2018-02-26 at 02 53 07" src="https://user-images.githubusercontent.com/13024361/36649924-c42ce16a-1aa0-11e8-98fb-14130e83b349.png">
+  <img width="983" alt="Screen Shot 2019-03-31 at 13 33 01" src="https://user-images.githubusercontent.com/13024361/55288559-94157480-53b9-11e9-9896-93480bd6a846.png">
   
   * Select and open your downloaded scheme file
   * Click 'Apply'
